@@ -24,7 +24,7 @@ Understanding over hype.
 
 ---
 
-## 🔬 Current Research Focus
+##  Current Research Focus
 
 - iOS & macOS internals  
 - WebKit attack surface  
