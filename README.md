@@ -34,43 +34,10 @@ Understanding over hype.
 
 ---
 
-## ⚙️ Research Stack
-
-<table>
-<tr>
-<td><b>Reverse Engineering:</b></td>
-<td>
-<img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,bash"/>
-</td>
-</tr>
-
-<tr>
-<td><b>Security & Debugging:</b></td>
-<td>
-<img height="40" src="https://skillicons.dev/icons?i=linux,apple,git"/>
-</td>
-</tr>
-
-<tr>
-<td><b>Low-Level:</b></td>
-<td>
-<img height="40" src="https://skillicons.dev/icons?i=clang,cmake"/>
-</td>
-</tr>
-
-<tr>
-<td><b>Environment:</b></td>
-<td>
-<img height="40" src="https://skillicons.dev/icons?i=macos,ubuntu,debian"/>
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RRR3d&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/RRR3d)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
@@ -78,7 +45,7 @@ Understanding over hype.
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RRR3d&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
