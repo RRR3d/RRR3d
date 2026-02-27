@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 Security researcher focused on:
 
@@ -26,7 +26,7 @@ Understanding over hype.
 
 ## 🔬 Current Research Focus
 
-- 🍎 iOS & macOS internals  
+- iOS & macOS internals  
 - WebKit attack surface  
 - Modern mitigations (PAC / PPL / sandbox hardening)  
 - Controlled lab PoC reproduction  
@@ -35,22 +35,8 @@ Understanding over hype.
 ---
 
 
-## 📊 Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RRR3d&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/RRR3d)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RRR3d&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
----
-
-## 🧩 Vulnerability Classes Studied
+##  Worked On
 ✔ Use-After-Free
 ✔ Out-of-Bounds Read / Write
 ✔ JIT Logic Bugs
@@ -61,7 +47,7 @@ Understanding over hype.
 
 ---
 
-## 🛰 Research Philosophy
+##  Research Philosophy
 
 > Root cause > exploit hype  
 > Mitigation understanding > bypass attempts  
@@ -69,7 +55,7 @@ Understanding over hype.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 If you're working on:
 - Browser internals
@@ -77,7 +63,6 @@ If you're working on:
 - Advanced mitigation research
 - Serious vulnerability research
 
-Let’s connect.
 
 ---
 
