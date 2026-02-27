@@ -1,78 +1,119 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Abdurrahman Nafi
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Vulnerability+Researcher;Offensive+Security+Enthusiast;Reverse+Engineering+Addict;Memory+Corruption+Hunter" />
+</h1>
 
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+<h3 align="center">Break. Reverse. Understand. Document.</h3>
 
+---
 
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
-  - ⚡ Fun fact: I look like a hobbit.
+## 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/" target="blank"><i align="center" class="devicon-twitter-original" alt="Abdurrahman" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/abdurrahman-nafi-16614223b/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Abdurrahman Nafi" height="40" width="60" ></i>
-</a>
-</p>
+Security researcher focused on:
 
+- Kernel & low-level vulnerability research  
+- Browser internals & sandbox escapes  
+- Memory corruption (UAF / OOB / Type Confusion)  
+- N-day analysis & variant hunting  
+- Root-cause analysis  
 
-------
-<h3 align="left">Activity:</h3>
+I prefer disassemblers over dashboards.  
+Crashes over comfort.  
+Understanding over hype.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RRR3d&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## 🔬 Current Research Focus
+
+- 🍎 iOS & macOS internals  
+- WebKit attack surface  
+- Modern mitigations (PAC / PPL / sandbox hardening)  
+- Controlled lab PoC reproduction  
+- Deep bug root-cause analysis  
+
+---
+
+## ⚙️ Research Stack
+
+<table>
+<tr>
+<td><b>Reverse Engineering:</b></td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,bash"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Security & Debugging:</b></td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=linux,apple,git"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Low-Level:</b></td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=clang,cmake"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Environment:</b></td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=macos,ubuntu,debian"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 <div align="center">
-  <a href="https://github.com/RRR3d">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RRR3d&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RRR3d"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RRR3d&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RRR3d"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
+
 <p align="center">
-  <a href="https://github.com/RRR3d">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RRR3d&&theme=tokyonight" alt="RRR3d" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
-------
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine,macos"/></td>
-    </tr>
-</table>
+---
+
+## 🧩 Vulnerability Classes Studied
+✔ Use-After-Free
+✔ Out-of-Bounds Read / Write
+✔ JIT Logic Bugs
+✔ Sandbox Escapes
+✔ Kernel Race Conditions
+✔ Privilege Escalation
+
+
+---
+
+## 🛰 Research Philosophy
+
+> Root cause > exploit hype  
+> Mitigation understanding > bypass attempts  
+> Every crash tells a story  
+
+---
+
+## 📫 Contact
+
+If you're working on:
+- Browser internals
+- Kernel security
+- Advanced mitigation research
+- Serious vulnerability research
+
+Let’s connect.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
+</p>
